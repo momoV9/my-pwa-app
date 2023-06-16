@@ -1,0 +1,9 @@
+.welcomeContainer {
+  text-align: center;
+  padding: 20px;
+}
+
+.welcomeImage {
+  max-width: 400px;
+  margin-bottom: 20px;
+}
